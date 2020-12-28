@@ -8,4 +8,10 @@
 ![GitHub Followers](https://img.shields.io/github/followers/izmcm?style=social) [![Follow me on Twitter](https://img.shields.io/twitter/follow/izmcm?style=social)](https://twitter.com/izmcm) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/izabellacmelo/)](https://www.linkedin.com/in/izabellacmelo/)
 
 
-![Izabella's github stats](https://github-readme-stats.vercel.app/api?username=izmcm)
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izmcm&show_icons=true&theme=dracula" alt="Izabella's github stats" />
+</p>
+
+<br/>
